@@ -17,7 +17,7 @@ public class MADZooNetbeans {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("MADZoo created in Netbeans");
-                
+        System.out.println("Welcome.....");
     }
     
 }
